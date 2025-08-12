@@ -142,7 +142,9 @@ h2 {
 	text-align: right;
 	width: 18%;
 }
-
+h2+p {
+		font-size:150%;
+}
 
 h3 {
 	font-size: 1em;
