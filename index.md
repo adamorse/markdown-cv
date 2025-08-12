@@ -5,7 +5,7 @@ title: Ada Morse
 # Ada Morse
 
 <div id="webaddress">
-<a href="morse.ada@gmail.com">morse.ada@gmail.com</a> :: (802) 343-1786 :: 3038 St Paul St Apt 3, Baltimore MD 21218
+<a href="morse.ada@gmail.com">morse.ada@gmail.com</a> :: 802-343-1786 :: 3038 St Paul St Apt 3, Baltimore MD 21218
 </div>
 
 
@@ -262,7 +262,7 @@ __Codecademy__
 
 Member, standards and documentation team
 
-`2022 - present`
+`2022 - 2024`
 __Ohavi Zedek Synagogue__
 
 LGBT Chavurah organizer
