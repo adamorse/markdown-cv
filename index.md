@@ -109,6 +109,11 @@ Ellis-Monaghan,  Pangborn,  Seeman,  Blakeley,  Disher, Falcigno,  Healy, Morse,
 
 ## Other Experience
 
+`2020-present`
+__Private Tutor__
+- Ages 13+
+- Topics include: Algebra, Probability and Statistics, Calculus I-III, Discrete Mathematics, Linear Algebra
+
 `2024`
 __Brilliant.org__
 
