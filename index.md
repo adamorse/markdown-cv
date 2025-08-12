@@ -139,7 +139,7 @@ __National Life Group__
 _Systems Analyst_
 
 Responsibilities included
-- __Teaching__: trained entry-level analysts in data science, statistics, and mathematical techniques necessary for the analysis of actuarial systems and products
+- __Teaching__: trained entry-level analysts
 - __Automation__: designed and implemented combinatorial and data-based approaches to automated product testing, saving four
 months of hand-testing products in 2019 alone
 - __Predictive analytics__: performed studies to predict costs of features in a flagship product, reducing acquisition costs by more than
