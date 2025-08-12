@@ -33,6 +33,7 @@ body {
 }
 ol, ul {
 	list-style: square;
+	margin-left: 30px;
 }
 blockquote, q {
 	quotes: none;
