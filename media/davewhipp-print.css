@@ -121,11 +121,12 @@ h1,h2,h3,h4 {
 }
 
 h1 {
-	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
 	left: 0%;
+	text-align: right;
+	width: 20%;
 }
 
 h1+p {
@@ -171,7 +172,8 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 25%;
+	text-align: right;
+	width: 20%;
 	color: #ccc;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 80%;
