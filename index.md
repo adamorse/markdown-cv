@@ -67,36 +67,6 @@ Lead groups of 3-4 undergraduate researchers.
 - Students presented their research at local and national conferences
 - Taught intensive minicourses on graph theory, topology, and abstract algebra
 
-## Publications
-
-`2020`
-__DNA Origami and Unknotted A-Trails in Torus Graphs__
-
-_Journal of Knot Theory and Its Ramifications_
-
-A. Morse, W. Adkisson, J. Greene, D. Perry, B. Smith, J. Ellis-Mongahan, G. Pangborn
-
-`2018`
-__Interlacement and Activities in Delta-Matroids__
-
-_European Journal of Combinatorics_
-
-Ada Morse
-
-`2016`
-__The Interlace Polynomial__
-
-invited chapter in _Graph Polynomials_, ed. Dehmer et al, CRC Press
-
-Ada Morse
-
-`2016`
-__Design Tools for Reporter Strands and DNA Scaffold Strands__
-
-_Theoretical Computer Science_
-
-Ellis-Monaghan,  Pangborn,  Seeman,  Blakeley,  Disher, Falcigno,  Healy, Morse, Singh, Westland
-
 
 ## Other Experience
 
@@ -148,6 +118,36 @@ Responsibilities included
 - developing simulation tools for insurance products
 - automating product testing
 - performing statistical studies
+
+## Publications
+
+`2020`
+__DNA Origami and Unknotted A-Trails in Torus Graphs__
+
+_Journal of Knot Theory and Its Ramifications_
+
+A. Morse, W. Adkisson, J. Greene, D. Perry, B. Smith, J. Ellis-Mongahan, G. Pangborn
+
+`2018`
+__Interlacement and Activities in Delta-Matroids__
+
+_European Journal of Combinatorics_
+
+Ada Morse
+
+`2016`
+__The Interlace Polynomial__
+
+invited chapter in _Graph Polynomials_, ed. Dehmer et al, CRC Press
+
+Ada Morse
+
+`2016`
+__Design Tools for Reporter Strands and DNA Scaffold Strands__
+
+_Theoretical Computer Science_
+
+Ellis-Monaghan,  Pangborn,  Seeman,  Blakeley,  Disher, Falcigno,  Healy, Morse, Singh, Westland
 
 
 ## Funding, Grants, and Awards
