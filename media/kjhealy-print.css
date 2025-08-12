@@ -33,7 +33,7 @@ body {
 }
 ol, ul {
 	list-style: none;
-	margin-left: 100px;
+	margin-left: 300px;
 }
 blockquote, q {
 	quotes: none;
@@ -75,7 +75,7 @@ code {
 	font-size: 80%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
-	color: #000;
+	color: #aaa;
 }
 
 p code {
