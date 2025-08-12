@@ -61,7 +61,7 @@ _Adjunct in Mathematics_
 `2014-15,2017-18`
 __University of Vermont__
 
-_GTA and Instructor of record_:
+_Instructor of record (as a graduate student)_:
 - Finite Mathematics with Applications (3 sections total)
 - Fundamentals of Calculus 1 (2 sections total)
 
@@ -111,20 +111,22 @@ Ellis-Monaghan,  Pangborn,  Seeman,  Blakeley,  Disher, Falcigno,  Healy, Morse,
 
 `2024`
 __Brilliant.org__
-- Senior Producer
+
+_Senior Producer_
 - Developed interactive games teaching core concepts in Computer Science
 
 `2022 - 2024`
 __Codecademy__
-- Senior Instructional Designer (August 2023 - present)
+- Senior Instructional Designer (August 2023 - May 2024)
 - Instructional Designer (Jan 2023 - July 2023)
 - Curriculum Developer (Aug 2022 - Dec 2022)
 - Associate Curriculum Developer (April 2022 - July 2022)
 
-Courses developed:
-- Intro to PyTorch and Neural Networks (in progress)
-- Intro to Hugging Face (in progress)
-- Learn Python for Data Science Skill Path (two courses)
+Courses developed include:
+- PyTorch for Classification
+- Intro to PyTorch and Neural Networks
+- Intro to Hugging Face 
+- Learn Python for Data Science Skill Path 
 - Data Engineering Career Path
 - Prompt Engineering for Analytics
 - Learn Microsoft Excel for Data Analysis
@@ -133,8 +135,7 @@ Courses developed:
 Product Features:
 - AI Collections
 - Learner Onboarding
-- Dashboard V2 (in progress)
-
+- Dashboard V2
 
 `2018 - 2020`
 __National Life Group__
