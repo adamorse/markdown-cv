@@ -39,7 +39,7 @@ _Adjunct_
 - Discrete Mathematics
 - Mathematical Cryptography
 - Calculus II
-- Foundations of Mathematics
+- Fundamentals of Mathematics
 - Statistics 101
 
 `2021`
@@ -108,7 +108,7 @@ __Private Tutor__
 `2024`
 __Brilliant.org__
 
-_Senior Producer_
+_Senior Producer (May 2024-Nov 2024)_
 - Developed interactive games teaching core concepts in Computer Science
 
 `2022 - 2024`
