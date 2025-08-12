@@ -39,26 +39,6 @@ B.M in Music Performance (summa cum laude)
 
 ## Teaching Experience
 
-`2022 - present`
-__Codecademy__
-- Senior Instructional Designer (August 2023 - present)
-- Instructional Designer (Jan 2023 - July 2023)
-- Curriculum Developer (Aug 2022 - Dec 2022)
-- Associate Curriculum Developer (April 2022 - July 2022)
-
-Courses developed:
-- Intro to PyTorch and Neural Networks (in progress)
-- Intro to Hugging Face (in progress)
-- Learn Python for Data Science Skill Path (two courses)
-- Data Engineering Career Path
-- Prompt Engineering for Analytics
-- Learn Microsoft Excel for Data Analysis
-- Prompt Engineering for Marketing
-
-Product Features:
-- AI Collections
-- Learner Onboarding
-- Dashboard V2 (in progress)
 
 `2020 - 2022`
 __Champlain College__
@@ -127,12 +107,34 @@ _Theoretical Computer Science_
 Ellis-Monaghan,  Pangborn,  Seeman,  Blakeley,  Disher, Falcigno,  Healy, Morse, Singh, Westland
 
 
-## Industry Experience
+## Other Experience
 
-`2020 - present`
+`2024`
+__Brilliant.org__
+- Senior Producer
+- Developed interactive games teaching core concepts in Computer Science
+
+`2022 - 2024`
 __Codecademy__
-- developed technical instruction in computer programming, data science, and AI systems
-- embedded pedagogical expert on a product engineering team
+- Senior Instructional Designer (August 2023 - present)
+- Instructional Designer (Jan 2023 - July 2023)
+- Curriculum Developer (Aug 2022 - Dec 2022)
+- Associate Curriculum Developer (April 2022 - July 2022)
+
+Courses developed:
+- Intro to PyTorch and Neural Networks (in progress)
+- Intro to Hugging Face (in progress)
+- Learn Python for Data Science Skill Path (two courses)
+- Data Engineering Career Path
+- Prompt Engineering for Analytics
+- Learn Microsoft Excel for Data Analysis
+- Prompt Engineering for Marketing
+
+Product Features:
+- AI Collections
+- Learner Onboarding
+- Dashboard V2 (in progress)
+
 
 `2018 - 2020`
 __National Life Group__
