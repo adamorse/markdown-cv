@@ -43,7 +43,7 @@ B.M in Music Performance (summa cum laude)
 `2020 - 2022`
 __Champlain College__
 
-_Adjunct in Mathematics_
+_Adjunct_
 
 - Discrete Mathematics
 - Mathematical Cryptography
@@ -54,7 +54,7 @@ _Adjunct in Mathematics_
 `2021`
 __St. Michael's College__
 
-_Adjunct in Mathematics_
+_Adjunct_
 
 - Elements of Calculus I
 
@@ -62,8 +62,8 @@ _Adjunct in Mathematics_
 __University of Vermont__
 
 _Instructor of record (as a graduate student)_:
-- Finite Mathematics with Applications (3 sections total)
-- Fundamentals of Calculus 1 (2 sections total)
+- Finite Mathematics with Applications
+- Fundamentals of Calculus 1
 
 `2015-2017`
 __St. Michael's College__
