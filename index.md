@@ -9,15 +9,6 @@ title: Ada Morse
 </div>
 
 
-## Currently
-
-Senior Instructional Designer at Codecademy
-
-### Specializing in
-
-Data Science, technical education, inquiry- and project-based learning
-
-
 ## Education
 
 `May 2018`
