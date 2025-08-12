@@ -139,12 +139,10 @@ __National Life Group__
 _Systems Analyst_
 
 Responsibilities included
-- __Teaching__: trained entry-level analysts
-- __Automation__: designed and implemented combinatorial and data-based approaches to automated product testing, saving four
-months of hand-testing products in 2019 alone
-- __Predictive analytics__: performed studies to predict costs of features in a flagship product, reducing acquisition costs by more than
-half
-- __Data models__: product point-person for full restructure of our enterprise data model
+- training entry-level analysts
+- developing simulation tools for insurance products
+- automating product testing
+- performing statistical studies
 
 
 ## Funding, Grants, and Awards
