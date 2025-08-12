@@ -5,7 +5,7 @@ title: Ada Morse
 # Ada Morse
 
 <div id="webaddress">
-<a href="morse.ada@gmail.com">morse.ada@gmail.com</a> :: 802-343-1786 :: 3038 St Paul St Apt 3, Baltimore MD 21218
+<a href="morse.ada@gmail.com">morse.ada@gmail.com</a> :: 802-343-1786 :: 3038 St Paul St Apt 3, Baltimore MD
 </div>
 
 
@@ -65,7 +65,7 @@ Lead groups of 3-4 undergraduate researchers.
 - Designed and guided the students’ summer research
 - Students produced two peer-reviewed publications
 - Students presented their research at local and national conferences
-- Designed and taught intensive minicourses on graph theory, topology, and abstract algebra
+- Taught intensive minicourses on graph theory, topology, and abstract algebra
 
 ## Publications
 
@@ -102,8 +102,12 @@ Ellis-Monaghan,  Pangborn,  Seeman,  Blakeley,  Disher, Falcigno,  Healy, Morse,
 
 `2020-present`
 __Private Tutor__
-- Ages 13+
-- Topics include: Algebra, Probability and Statistics, Calculus I-III, Discrete Mathematics, Linear Algebra
+Topics including:
+- Algebra
+- Probability and Statistics
+- Calculus I-III
+- Discrete Mathematics
+- Linear Algebra
 
 `2024`
 __Brilliant.org__
