@@ -41,6 +41,7 @@ _Adjunct_
 - Calculus II
 - Fundamentals of Mathematics
 - Statistics 101
+- Precalculus (Algebra and Trigonometry)
 
 `2021`
 __St. Michael's College__
